@@ -1,7 +1,3 @@
-Your "Blinkit Sales Insights" project looks well-organized, with a solid structure for analysis. Here's a refined outline based on your content and paths:
-
----
-
 # **Blinkit Sales Insights**  
 
 ## **Table of Contents**  
@@ -21,15 +17,15 @@ The goal of this project is to analyze Blinkit's grocery sales data to uncover k
 
 ## **ETL Process**  
 
-### 1. **Extract**  
+### 1. **Extract Data**  
 - Downloaded the Blinkit Grocery Data file from an online source.  
 - Opened the file in Power BI for analysis.  
 
-### 2. **Transform**  
+### 2. **Transform Data**  
 - Cleaned the data by removing discrepancies and irrelevant columns.  
 - Retained null values in the `Item Weight` column since it’s not used for analysis.  
 
-### 3. **Load**  
+### 3. **Load Data**  
 - Loaded the cleaned data into Power BI.  
 - Created multiple visualizations to effectively present the insights.  
 
@@ -114,7 +110,3 @@ This analysis provides valuable insights into product and outlet performance, en
 
 **Demo Video:**  
 [Watch the Dashboard Demo Video](media/demo%20video/Dashboard%20Demo%20Video.mp4)
-
----
-
-This structure ensures your content is clear, accessible, and engaging, guiding users through the analysis and its recommendations.
