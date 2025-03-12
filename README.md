@@ -89,7 +89,7 @@ The table below shows the cleaned and transformed data used for analysis:
 The following dashboard consolidates all key insights into a single view for a comprehensive analysis:  
 
 **🔍 Complete Dashboard:**  
-![Business Overview](./images/analysis%20images/Sales%20Overview.gif)  
+![Business Overview](./images/analysis%20images/Sales%20Overview.gif)
 
 ---
 
@@ -112,3 +112,4 @@ The following dashboard consolidates all key insights into a single view for a c
 This analysis will provide insights into product and outlet performance, enabling Blinkit to optimize product offerings, improve customer targeting, and enhance overall sales strategies.  
 
 ---
+
