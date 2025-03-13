@@ -96,7 +96,7 @@ This analysis will enable better decision-making in:
 The table below presents the cleaned and transformed data used for analysis:
 
 **Data Table:**  
-![Data Table](media/analysis%20images/Blinkit_Data_Table.gif)  
+![Data Table](assets/analysis%20images/Blinkit_Data_Table.gif)  
 
 ---
 
@@ -104,7 +104,7 @@ The table below presents the cleaned and transformed data used for analysis:
 The following dashboard summarizes all key insights into a single view for comprehensive analysis:
 
 **🔍 Complete Dashboard:**  
-![Business Overview](media/analysis%20images/Sales%20Overview.gif)  
+![Business Overview](assets/analysis%20images/Sales%20Overview.gif)  
 
 ---
 
@@ -133,7 +133,7 @@ This analysis provides valuable insights into product and outlet performance, en
 ---
 
 ## **🎥 Demo Video**  
-👉 [Watch the Dashboard Demo Video](media/demo%20video/Dashboard%20Demo%20Video.mp4)  
+👉 [Watch the Dashboard Demo Video](assets/demo%20video/Dashboard%20Demo%20Video.mp4)  
 
 ---
 
@@ -144,7 +144,7 @@ Here's the organized structure of the project:
 Blinkit-Online-Store-Report/
 ├── Data/
 │   └── BlinkIT Grocery Data.xlsx
-├── media/
+├── assets/
 │   ├── analysis images/
 │   │   ├── Blinkit Business Overview.pdf
 │   │   ├── Blinkit_Data_Table.gif
@@ -161,11 +161,6 @@ Blinkit-Online-Store-Report/
 ├── README.md
 └── .gitattributes.gitattributes
 ```
-
-### ✅ **Key Notes:**  
-- Removed the duplicate `blinkit-sales-report.pbix` file.  
-- All file paths are correctly referenced and organized.  
-
 ---
 
 ### 👨‍💻 **Author:** Jeremiah Ewache  
